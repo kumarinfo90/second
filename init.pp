@@ -38,7 +38,7 @@
 class second {
 
 package { mini-httpd :
-  ensure => adsent
+  ensure => absent
 }
 
 }
